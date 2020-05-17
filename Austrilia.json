@@ -1,0 +1,54 @@
+[
+  {
+    "Year": 2015,
+    "Country": "New Zealand",
+    "Continent": "Australia",
+    "Happiness.Rank": 9,
+    "Happiness.scores": 7.286,
+    "GDP": 1.25018,
+    "Social.support": 1.31967,
+    "Helathy.life.expectancy": 0.90837,
+    "Freedom.to.make.choices": 0.63938,
+    "Generosity": 0.47501,
+    "Perceptions.of.corruption": 0.42922
+  },
+  {
+    "Year": 2015,
+    "Country": "Australia",
+    "Continent": "Australia",
+    "Happiness.Rank": 10,
+    "Happiness.scores": 7.284,
+    "GDP": 1.33358,
+    "Social.support": 1.30923,
+    "Helathy.life.expectancy": 0.93156,
+    "Freedom.to.make.choices": 0.65124,
+    "Generosity": 0.43562,
+    "Perceptions.of.corruption": 0.35637
+  },
+  {
+    "Year": 2018,
+    "Country": "New Zealand",
+    "Continent": "Australia",
+    "Happiness.Rank": 8,
+    "Happiness.scores": 7.307,
+    "GDP": 1.303,
+    "Social.support": 1.557,
+    "Helathy.life.expectancy": 1.026,
+    "Freedom.to.make.choices": 0.585,
+    "Generosity": 0.33,
+    "Perceptions.of.corruption": 0.38
+  },
+  {
+    "Year": 2018,
+    "Country": "Australia",
+    "Continent": "Australia",
+    "Happiness.Rank": 11,
+    "Happiness.scores": 7.228,
+    "GDP": 1.372,
+    "Social.support": 1.548,
+    "Helathy.life.expectancy": 1.036,
+    "Freedom.to.make.choices": 0.557,
+    "Generosity": 0.332,
+    "Perceptions.of.corruption": 0.29
+  }
+]
